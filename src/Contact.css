@@ -1,0 +1,32 @@
+.form{
+    background-color: chartreuse;
+    width: 40vh;
+    height: 65vh;
+    padding: 50px;
+    text-align: center;
+    border-radius: 25px ;
+    border: 1px solid rgb(33, 31, 31);
+    padding-top: 17px;
+    margin-right: 40px;
+    margin-top: 12px;
+    
+    
+    
+}
+.inp{
+    padding: 3px  10px;
+    text-align: center;
+    
+}
+
+.flex{
+    display: flex;
+    padding:  0 34px;
+    background-color: rgb(174, 224, 124);
+    height: 80vh;
+}
+.text{
+    padding: 39px 12px 20px 12px;
+    
+}
+

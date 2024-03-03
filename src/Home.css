@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.hi{
+    background-color: rgb(172, 151, 194);
+    height: 80vh;
+    padding: 30px;
+    
+}
+.Home{
+    float: right;
+    background-size: cover;
+    margin-right: 45px;
+    clip-path: circle(30% at 50% 40%);
+shape-outside: circle(30% at 50% 40%);
+shape-margin: 40px;
+    /* position: absolute;
+    right: 50%;
+    top: 45px; */
+    
+}
+button{
+    padding: 2px 15px;
+    border-radius: 9px;
+    background-color: blue;
+    color: white;
+    margin-top: 50px;
+}
